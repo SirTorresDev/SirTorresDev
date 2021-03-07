@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h2> Hi, I'm Roberto Torres! <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/source.gif" width="25"></h2>
 
