@@ -19,7 +19,7 @@ const Roberto Torres = {
   lenguages: [Javascript, HTML5, CSS, Ruby, Python, Java, C++, BootStrap],
   tools: [React, Node, Styled-Components, MongoDB],
   otherSkills:  [GIT - SCRUM]
-  architecture: ["microservices", "event-driven", "design system pattern"]
+  architecture: ["Microservices", "Rest-Api", "MVC","Design system pattern"]
 ```
 <br>
 <p align="left"> 
