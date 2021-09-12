@@ -16,8 +16,8 @@
 ```javascript
 const Roberto Torres = {
   pronouns: "He" | "him",
-  lenguages: [Javascript, HTML5, CSS, Ruby, Python, Java, C++, BootStrap],
-  tools: [React, Node, Styled-Components, MongoDB],
+  lenguages: [Javascript, HTML5, CSS, Ruby, Python, Java, Spring, C++, BootStrap],
+  tools: [React, Angular, Node, Styled-Components, MongoDB],
   otherSkills:  [GIT - SCRUM]
   architecture: ["Microservices", "Rest-Api", "MVC","Design system pattern"]
 ```
