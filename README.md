@@ -4,7 +4,7 @@
 <p><em>Software Enginner at <a href="http://www.ucm.es">University Cumplutense of Madrid</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 <h3 align="left">Connect with me:</h3> 
 <p>
-<strong><a href="https://torresdev.vercel.app/" target="blank" style='margin-left:60px'>My DevFolio</a></strong>
+<strong><a href="https://sirtorresdev.com/" target="blank" style='margin-left:60px'>My DevFolio</a></strong>
  
 
 [![Linkedin: SirTorresDev](https://img.shields.io/badge/-robertoTorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-torres-prensa/)](https://www.linkedin.com/in/roberto-torres-prensa/)
@@ -16,8 +16,8 @@
 ```javascript
 const Roberto Torres = {
   pronouns: "He" | "him",
-  lenguages: [Javascript, HTML5, CSS, Ruby, Python, Java, Spring, C++, BootStrap],
-  tools: [React, Angular, Node, Styled-Components, MongoDB, Jest,Cypress],
+  lenguages: [C++, Java, HTML5, CSS, Javascript, Typescript, Python, BootStrap],
+  tools: [React, Angular, Node, Spring, Django, Styled-Components, MongoDB, Jest,Cypress],
   otherSkills:  [GIT - SCRUM]
   architecture: ["Microservices", "Rest-Api", "MVC","Design system pattern"]
 ```
