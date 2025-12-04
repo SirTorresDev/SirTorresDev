@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm Roberto Torres! <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/source.gif" width="25"></h2>
 
-<p><em>Software Enginner at <a href="http://www.ucm.es">University Cumplutense of Madrid</a><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzV6b2k2Y2xqb2xuZzhtMHMzMWh3ZTBpOGk1Njc5Ynd4dGxhM3BrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vhlboG0kGaiCx1D9cd/giphy.gif" width="30">
+<p><em>Software Enginner at <a href="http://www.ucm.es">University Cumplutense of Madrid</a>
 <h3 align="left">Connect with me:</h3> 
 <p>
 <strong><a href="https://sirtorresdev.com/" target="blank" style='margin-left:60px'>My DevFolio</a></strong>
